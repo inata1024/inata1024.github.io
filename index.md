@@ -2,7 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Wentao Tang (唐文涛)
+
+I am an undergraduate student in Nankai University majoring in computer science and technology.  I am currently working with [Dr. Buzheng Huang](https://www.buzhenhuang.com/) and I also spent an exciting time at [TMCC](https://mmcheng.net/) as a research intern advised by [Prof. Chunle Guo](https://scholar.google.com/citations?user=RZLYwR0AAAAJ&hl=en) and [Prof. Chongyi Li](https://li-chongyi.github.io/).
+
+My research interests lie in deep learning and computer vision. My current research focuses on reconstructing human shape with the help of high-quality psuedo-labels. Additionally, I am actively exploring the field of multi-modal models.
+
+[Email](tangwt1024@gmail.com) / [CV(Chinese)](https://drive.google.com/file/d/1CTVG-E-t7tYE25z8x7n0N92gKX5xA3rk/view?usp=drive_link)
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +128,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
