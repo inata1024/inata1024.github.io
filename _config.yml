@@ -1,4 +1,6 @@
-
+# title: Minimal theme
+logo: /assets/img/image.png
+# description: Minimal is a theme for GitHub Pages.
+# show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-title: Feng Sicheng's homepage
-description: Bookmark this to keep an eye on my updates!
