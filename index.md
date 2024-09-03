@@ -10,7 +10,7 @@ I am an undergraduate student at Nankai University majoring in computer science 
 
 ## Research
 
-My research interests lie in deep learning and computer vision. My current research focuses on reconstructing human shapes with the help of high-quality pseudo-labels. Additionally, I am actively exploring the field of multi-modal models.
+My research interests lie in deep learning and computer vision. My current research focuses on human analysis and reconstruction. Additionally, I am actively exploring the field of multi-modal models.
 
 
 
