@@ -6,7 +6,7 @@ layout: default
 
 I am an undergraduate student at Nankai University majoring in computer science and technology.  I am currently working with [Dr. Buzheng Huang](https://www.buzhenhuang.com/) and I also spent an exciting time at [TMCC](https://mmcheng.net/) as a research intern advised by [Prof. Chunle Guo](https://scholar.google.com/citations?user=RZLYwR0AAAAJ&hl=en) and [Prof. Chongyi Li](https://li-chongyi.github.io/).
 
-[Email](tangwt1024@gmail.com) / [CV(Chinese)](https://drive.google.com/file/d/1CTVG-E-t7tYE25z8x7n0N92gKX5xA3rk/view?usp=drive_link)
+[Email](tangwt1024@gmail.com) / [CV](https://drive.google.com/file/d/1YBYfZjiAwl-8ZB8rtWtkQk_FNf33tffD/view?usp=drive_link)
 
 ## Research
 
