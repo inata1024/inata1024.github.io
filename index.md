@@ -12,7 +12,22 @@ I am an undergraduate student at Nankai University majoring in computer science 
 
 My research interests lie in deep learning and computer vision. My current research focuses on human analysis and reconstruction. Additionally, I am actively exploring the field of multi-modal models.
 
+## Misc
 
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>嵌入网易云音乐播放器</title>
+</head>
+
+<body>
+    <!-- 粘贴从网易云音乐复制的嵌入代码 -->
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2626055034&auto=1&height=66"></iframe>
+</body>
+
+</html>
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
